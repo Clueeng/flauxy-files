@@ -1,3 +1,7 @@
-Changed GUIs to use the new noctura wallpaper
+1.4.1:
+Changed Alt Manager
+
+1.4:
+Changed GUIs to use the new Noctura wallpaper
 Fixed scaffold being fired in the wrong event
 Added Packets to the PacketTweaker
