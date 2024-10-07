@@ -1,3 +1,3 @@
-Added X\
-Removed X\
-Edited X
+Changed GUIs to use the new noctura wallpaper
+Fixed scaffold being fired in the wrong event
+Added Packets to the PacketTweaker
