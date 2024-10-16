@@ -1,3 +1,8 @@
+1.5:
+New ClickGUI
+Added speed potion support to blocksmc speed (no strafe mode, but its strafe so idk why i named it like that)
+Other minor changes
+
 1.4.3:
 Added BlocksMC nofall
 Updated Jesus to properly work
