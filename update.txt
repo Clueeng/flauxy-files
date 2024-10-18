@@ -1,3 +1,8 @@
+1.7:
+- Version checker
+- Updated design of guitextfield
+- Changed blocksmc speed
+
 1.5:
 New ClickGUI
 Added speed potion support to blocksmc speed (no strafe mode, but its strafe so idk why i named it like that)
