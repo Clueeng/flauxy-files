@@ -1,3 +1,6 @@
+1.7.1:
+- Added C17 to PacketTweaker
+
 1.7:
 - Version checker
 - Updated design of guitextfield
