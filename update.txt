@@ -1,3 +1,6 @@
+1.7.3:
+- Vulcan bypasses
+
 1.7.2:
 - ive lost track
 
