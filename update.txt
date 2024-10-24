@@ -1,5 +1,5 @@
 1.7.3:
-- Vulcan bypasses
+- More Vulcan bypasses
 
 1.7.2:
 - ive lost track
