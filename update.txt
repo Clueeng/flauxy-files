@@ -1,3 +1,8 @@
+1.7.3b:
+-added PlayBot
+-added Karhu Speed
+-added some other things lol
+
 1.7.3:
 - More Vulcan bypasses
 
@@ -11,25 +16,3 @@
 - Version checker
 - Updated design of guitextfield
 - Changed blocksmc speed
-
-1.5:
-New ClickGUI
-Added speed potion support to blocksmc speed (no strafe mode, but its strafe so idk why i named it like that)
-Other minor changes
-
-1.4.3:
-Added BlocksMC nofall
-Updated Jesus to properly work
-Other minor fixes
-
-1.4.2:
-Added back set yaw
-Added glow to arraylist
-
-1.4.1:
-Changed Alt Manager
-
-1.4:
-Changed GUIs to use the new Noctura wallpaper
-Fixed scaffold being fired in the wrong event
-Added Packets to the PacketTweaker
