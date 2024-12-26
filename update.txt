@@ -1,3 +1,6 @@
+1.7.4:
+- added module command
+
 1.7.3b:
 -added PlayBot
 -added Karhu Speed
